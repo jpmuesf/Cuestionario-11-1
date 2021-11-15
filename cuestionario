@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Nicolas Odriozola y Juan Pablo Mues 11°1</title>
+</head>
+<body>
+    <div>Nicolas Odriozola y Juan Pablo Mues 11°1</div>
+    <br>
+    <div>1.¿Que es internet?</div>
+    <div>El internet es una red de computadoras interconectadas a nivel mundial en cierta forma de telaraña. Consiste en servidores que proveen información a un número aproximado de 100 millones de personas que están conectadas alrededor del  mundo entre si mediante las redes de telefonía y cable</div> 
+    <br>
+    <div>2.Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet.</div>
+    <div>Los medios físicos y de propagación de ondas por los que se transmite la información en internet es mediante, ondas de radio</div>
+    <br>
+    <div>3.¿Cómo se organiza internet? Habla de las direcciones IP y los DNS.</div>
+    <div>En internet se emplean direcciones numéricas para identificar máquinas: las direcciones IP. Se representan por cuatro número, de 0 a 255, separados por puntos. Un servidor puede identificarse, por ejemplo, con la dirección IP 67 320 100 100. Como es mas sencillo recordar un nombre se traducen a nombres.</div>
+    <br>
+    <div>4.Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.</div>
+    <div>No sigue un camino directo, sino que mas bien va en paquetes que buscan el camino mas rápido, controlado por routers. La canción se manda por diferentes paquetes y ya al juntarse suena la canción completa.</div>
+    <br>
+    <div>5.Describe los protocolos que existen en internet, en específico HTTP y HTML</div>
+    <div>HTTP funciona como una sumisión de datos y el servidor los recibe para la computadora. HTML funciona en base de HTTP y describe ciertas características de la página requerida por la dirección HTTP. </div>
+    <br>
+    <div>6.En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas.</div>
+    <div>La práctica de cambiar el código o informnación se llama encriptación, esto es debido a que si se llega a interceptar la información, no se entienda y la única manera de decodificar es con la llave. Ya que la encriptación que pueda resolver un humano es muy fácil y cualquier computadora puede hacer, ya que es muy complicado que 2 computadoras se pongan de acuerdo para establecer una llave, se utilizan las llaves públicas y privadas. De esta manera se vuelve mas seguro el envío de información.</div>
+    <br>
+    <div>7.En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.</div>
+    <div>Los viruses  son programas que se instalan en las computadoras y afectan tanto al equipo como al usuario. Usualmente varias computadoras están al servicio de un hacker y cuando sucede esto el hacker lo utiliza a su provecho, ya que el tiene a su disposición un ejército digital, esto sucede ya que los servidores son bombardeados con demasiadas computadoras a la vez y por ello dejan de responder. Un método muy común que usan los hackers para sacar información personal es Phishing esto es mediante un frente que parece ser legítimo, esta información luego la usan para buscar mas información personal.</div>
+    <br>
+    <div>8.¿Cómo funciona la búsqueda de google?</div>
+    <div>Debido a la tecnología que este programa utiliza, los buscadores se adelantan y escanean las páginas web y su contenido para estar listos cuando alguien busque la información que esas páginas ofrecen; esto lo hace mediante las arañas, las arañas buscan onformación mediante todas las páginas y esto lo pone en índices de búsqueda, cuando se busca cierta información, el índice de búsqueda toma las palabras y busca páginas que tengan mayor coincidencia acorde al título. </div>
+    <br>
+</body>
+</html>
